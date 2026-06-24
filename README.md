@@ -1,98 +1,79 @@
+# Emerson Pérez Rivera · Ingeniero en Electrónica
 
-# 👋 Hola, soy Emerson Aldair Pérez Rivera
+> Desarrollador de sistemas embebidos e IoT | Diseñador de PCB | Usuario avanzado de Linux  
+> Construyo hardware conectado que funciona en producción.
 
-🎓 Ingeniero en Electrónica  
-💡 Apasionado por el **Internet de las Cosas (IoT)**, microcontroladores y desarrollo de soluciones conectadas a la nube.  
-🚀 Me gusta integrar **hardware + software** para crear proyectos funcionales del mundo real.
-
----
-
-## 🧠 Sobre mí
-
-- 🔌 Experiencia trabajando con **ESP32 / ESP-IDF / Arduino**
-- ☁️ Integraciones con **Firebase** y servicios en tiempo real
-- 🐧 Uso diario de **Linux** (Arch, Ubuntu, Mint)
-- 🌐 Conocimientos en **redes, servidores DHCP/DNS**
-- 🧪 Interés en automatización, sensores y sistemas embebidos
+📍 Guatemala · 📧 perezemerson85@gmail.com · 💼 [LinkedIn](#)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Sobre mí
 
-**Lenguajes**  
-C · C++ · Python
+Estudiante de Ingeniería en Electrónica en la USAC con experiencia práctica en
+sistemas embebidos, arquitecturas IoT e infraestructura de interoperabilidad gubernamental.
 
-**IoT / Hardware**  
-ESP32 · Sensores · Actuadores · Comunicación WiFi
+Actualmente trabajo como Asistente Técnico en Interoperabilidad en la Dirección de
+Gobierno Electrónico (GAE), desplegando y manteniendo la plataforma de intercambio
+de datos X-Road utilizada entre instituciones públicas de Guatemala.
 
-**Software & Backend**  
-Firebase · PostgreSQL · Django
-
-**Entornos**  
-Linux · Git · Docker · VS Code · NVIM 
-
-**Diseño de PCB**  
-KiCad · Altium · Eagle · EasyEDA
+Diseño PCBs, escribo firmware y construyo el backend que conecta todo.
 
 ---
 
-## 🚀 Proyectos destacados
+## Stack tecnológico
 
-🔹 [ESP32 Trainer](https://github.com/EmersonEE)  
-Plataforma de prácticas para aprender periféricos, comunicación y control en ESP32.
-
-🔹 [IoT + Firebase](https://github.com/EmersonEE)  
-Control de dispositivos mediante base de datos en la nube en tiempo real.
-
-🔹 [Sistemas de Red en Ubuntu Server](https://github.com/EmersonEE)  
-Implementaciones de DHCP, DNS, Samba y servicios empresariales.
-
-🔹 [Aplicaciones Flutter](https://github.com/EmersonEE)  
-Apps móviles conectadas a hardware y notificaciones.
+| Área | Herramientas |
+|---|---|
+| **Firmware / Embebidos** | ESP32 · ESP-IDF · Arduino · C · C++ |
+| **Diseño de PCB** | KiCad · Altium · EasyEDA |
+| **Backend** | Python · FastAPI · Django · PostgreSQL · Firebase |
+| **Infra / DevOps** | Docker · X-Road · Linux (Arch) · Git |
+| **Redes** | DHCP · DNS · Samba · TCP/IP |
 
 ---
 
-## 📈 Actualmente aprendiendo
+## Proyectos destacados
 
-- Desarrollo profesional con **ESP-IDF**
-- Arquitecturas más robustas para sistemas IoT
-- Buenas prácticas de firmware y diseño escalable
+### [ESP32 Trainer](https://github.com/EmersonEE/ESP32_Trainer)
+Plataforma de prácticas para aprender periféricos, protocolos de comunicación y
+control en ESP32. Cubre GPIO, UART, SPI, I2C y WiFi con ejemplos estructurados.  
+`C` `ESP-IDF` `Arduino`
+
+### [IoT + Firebase](https://github.com/EmersonEE/IoT_Project)
+Sistema de control de dispositivos en tiempo real usando Firebase como backend en
+la nube. Demuestra flujo de datos bidireccional entre hardware embebido y la nube.  
+`ESP32` `Firebase` `Python`
+
+### [Brazo Seleccionador FPGA](https://github.com/EmersonEE/Brazo-Seleccionador-FPGA.git)
+Brazo robótico clasificador de objetos controlado por lógica FPGA. Clasifica objetos
+por tamaño mediante sensores y acciona posiciones de servos en consecuencia.  
+`VHDL` `FPGA` `Control de servos`
+
+### [Servicios de Red en Ubuntu Server](https://github.com/EmersonEE)
+Despliegue estilo producción de DHCP, DNS, Samba y servicios de red empresariales
+sobre Ubuntu Server. Setup documentado para uso en laboratorio y aula.  
+`Linux` `Redes` `Ubuntu Server`
 
 ---
 
-## 🌐 Redes sociales
-
-<p align="left">
-<a href="https://facebook.com/TU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://twitter.com/TU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🧩 PCBs diseñadas
-
-Aquí algunos diseños que he desarrollado:
+## Diseños de PCB
 
 <p align="center">
-<img src="assets/photo_2022-10-07_12-03-28.jpg" width="250"/>
-<img src="assets/photo_2022-10-07_12-03-29.jpg" width="250"/>
-<img src="assets/wa.jpeg" width="250"/>
+  <img src="assets/photo_2022-10-07_12-03-28.jpg" width="280"/>
+  <img src="assets/photo_2022-10-07_12-03-29.jpg" width="280"/>
+  <img src="assets/wa.jpeg" width="280"/>
 </p>
 
----
-
-## 📫 Contacto
-
-📧 Email: perezemerson85@gmail.com  
-💼 LinkedIn: 
+*Diseñados en KiCad. Más diseños disponibles bajo solicitud.*
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Siempre estoy trabajando en algo nuevo!
+## Actualmente trabajando en
+
+- Administración de Security Server X-Road y documentación de interoperabilidad
+- Arquitectura de firmware con ESP-IDF para despliegues IoT en producción
+- Certificaciones de X-Road Fundamentals y Security Server Administration (NIIS)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmersonEE&show_icons=true&theme=dark&hide_border=true)
