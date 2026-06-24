@@ -81,9 +81,9 @@ Apps móviles conectadas a hardware y notificaciones.
 Aquí algunos diseños que he desarrollado:
 
 <p align="center">
-<img src="assets/pcb1.jpg" width="250"/>
-<img src="assets/pcb2.jpg" width="250"/>
-<img src="assets/pcb3.jpg" width="250"/>
+<img src="assets/photo_2022-10-07_12-03-28.jpg" width="250"/>
+<img src="assets/photo_2022-10-07_12-03-29.jpg" width="250"/>
+<img src="assets/wa.jpeg" width="250"/>
 </p>
 
 ---
