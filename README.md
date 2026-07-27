@@ -68,7 +68,7 @@ Fascinado por llevar los diagramas del papel al silicio. Aquí algunos de mis di
 
 ---
 
-## 📈 Actualmente Aprendiendo
+## 🌱 Actualmente Aprendiendo
 
 - Desarrollo profesional y avanzado utilizando **ESP-IDF** nativo.
 - Patrones de arquitectura de software aplicados a sistemas embebidos e IoT masivo.
@@ -78,14 +78,17 @@ Fascinado por llevar los diagramas del papel al silicio. Aquí algunos de mis di
 
 ## 📫 Contacto & Redes
 
-A abierto a colaboraciones en proyectos de hardware, firmware o desarrollo de software. ¡Hablemos!
+Estoy abierto a colaboraciones en proyectos de hardware, firmware o desarrollo de software. ¡Hablemos!
 
 <p align="left">
   <a href="mailto:perezemerson85@gmail.com">
     <img src="https://img.shields.io/badge/Email-perezemerson85%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/emerson-p%C3%A9rez-84412b115/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Emerson%20Pérez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://emersonperezpcbgalery.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Web-Galer%C3%ADa%20PCB-8B5CF6?style=flat-square&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
