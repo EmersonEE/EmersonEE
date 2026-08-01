@@ -59,11 +59,20 @@ Fascinado por llevar los diagramas del papel al silicio. Aquí algunos de mis di
 
 ---
 
-## 📈 Mi Actividad en GitHub
+## 🌐 Mi Página Web
+
+Visita mi galería de PCBs y proyectos en línea:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmersonEE&show_icons=true&theme=tokyonight&count_private=true" width="400" alt="Emerson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonEE&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
+  <a href="https://emersonperezpcbgalery.netlify.app/" target="_blank">
+    <img src="assets/webpage.png" width="700" alt="Emerson Pérez - Galería de PCBs" style="border-radius: 8px; border: 2px solid #8B5CF6;"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://emersonperezpcbgalery.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visitar%20Galer%C3%ADa%20de%20PCBs-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -86,9 +95,6 @@ Estoy abierto a colaboraciones en proyectos de hardware, firmware o desarrollo d
   </a>
   <a href="https://www.linkedin.com/in/emerson-p%C3%A9rez-84412b115/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Emerson%20Pérez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://emersonperezpcbgalery.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Web-Galer%C3%ADa%20PCB-8B5CF6?style=flat-square&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
